@@ -34,7 +34,7 @@ console.log(
 );
 
 run(function(answer){
-    console.log('Creating your new project, this may take some time...');
+    console.log('Creating your new project, this may take some time so go grab a coffee...');
     exec(["git clone git@github.com:mjbp/storm-scaffold.git && mv 'storm-scaffold' '",
                 answer.project.split(' ').join('-').toLowerCase(),
                 "' && cd ./",
