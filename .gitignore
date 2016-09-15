@@ -1,0 +1,6 @@
+/node_modules/
+/build/
+.bowerrc
+.DS_Store
+npm-debug.lo
+./test-app
