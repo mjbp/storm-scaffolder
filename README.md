@@ -9,6 +9,8 @@ npm i -g storm-scaffolder
 ```
 
 ###Usage
+To create a project just run
 ```
 scaffold
 ```
+and follow the instructions
