@@ -6,6 +6,11 @@
   "author": "mjbp",
   "license": "ISC",
   "main": "index.js",
+  "keywords": [
+    "stormid",
+    "scaffold",
+    "scaffolder"
+  ],
   "bin": {
     "scaffold": "bin/cmd.js"
   },
