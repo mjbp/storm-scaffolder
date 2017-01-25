@@ -2,5 +2,5 @@
 /build/
 .bowerrc
 .DS_Store
-npm-debug.lo
+npm-debug.log
 ./test-app
