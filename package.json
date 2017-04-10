@@ -1,6 +1,6 @@
 {
   "name": "storm-scaffolder",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Project scaffold installer",
   "repository": "https://github.com/mjbp/storm-scaffolder/",
   "author": "mjbp",
