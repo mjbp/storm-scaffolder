@@ -1,6 +1,6 @@
 {
   "name": "storm-scaffolder",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "Project scaffold installer",
   "repository": "https://github.com/stormid/storm-scaffolder/",
   "author": "stormid",
