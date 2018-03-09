@@ -1,6 +1,6 @@
 # Storm Scaffolder
 
-Node CLI app to start scaffold out a new project using the [Storm Scaffold](https://github.com/mjbp/storm-scaffold).
+Basic node CLI app to start scaffold out a new project using the [Storm Scaffold](https://github.com/stormid/storm-scaffold).
 
 ### Installation
 Install globally once
